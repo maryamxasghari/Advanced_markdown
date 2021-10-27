@@ -1,7 +1,8 @@
 # Advanced Markdown
 I will include all the cool tips to have a nice readme file
 
-
+### ⭐ Star this
+HTML file : [Star_this](https://github.com/maryamxasghari/advanced_markdown/blob/main/star_repo.html)
 <table>
 	<tr>
 		<td>
@@ -11,7 +12,9 @@ I will include all the cool tips to have a nice readme file
 </table>
 
 
-### 🚀 Share on
+### 🚀 Share on 
+
+HTML file :[Share_on](https://github.com/maryamxasghari/advanced_markdown/blob/main/Share_on.html)
 
 <table>
 	<tr>
