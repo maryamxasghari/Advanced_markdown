@@ -1,7 +1,20 @@
 # Advanced Markdown
 I will include all the cool tips to have a nice readme file
 
-### ⭐ Star this
+
+## Table of Contents
+<details>
+<summary>"Click to expand"</summary>
+
+- [Star this](#Star-this)
+- [Share on](#Share-on)
+
+
+</details>
+
+
+
+## ⭐ Star this
 HTML file : [Star_this](https://github.com/maryamxasghari/advanced_markdown/blob/main/star_repo.html)
 <table>
 	<tr>
@@ -12,7 +25,7 @@ HTML file : [Star_this](https://github.com/maryamxasghari/advanced_markdown/blob
 </table>
 
 
-### 🚀 Share on 
+## 🚀 Share on 
 
 HTML file :[Share_on](https://github.com/maryamxasghari/advanced_markdown/blob/main/Share_on.html)
 
