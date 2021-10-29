@@ -9,10 +9,20 @@ I will include all the cool tips to have a nice readme file
 - [Star this](#Star-this)
 - [Share on](#Share-on)
 
-
 </details>
 
+```
+<details>
+<summary>"Click to expand"</summary>
+-[heading1](#Heading1)
+-[heading2](#Heading2)
+</details>
 
+#Heading1
+Some context
+#Heading2
+Some context
+```
 
 ## ⭐ Star this
 HTML file : [Star_this](https://github.com/maryamxasghari/advanced_markdown/blob/main/star_repo.html)
