@@ -14,14 +14,11 @@ I will include all the cool tips to have a nice readme file
 ```
 <details>
 <summary>"Click to expand"</summary>
--[heading1](#Heading1)
--[heading2](#Heading2)
-</details>
 
-#Heading1
-Some context
-#Heading2
-Some context
+- [Star this](#Star-this)
+- [Share on](#Share-on)
+
+</details>
 ```
 
 ## ⭐ Star this
